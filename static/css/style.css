@@ -1,0 +1,43 @@
+body {
+  -webkit-font-smoothing: antialiased;
+}
+.btn-secondary {
+  color: #fff !important; }
+
+img {
+  width: 100%; }
+
+.logo {
+  width: 250px; }
+.nav-link {
+  color: #120200;
+  letter-spacing: .15em;
+}
+.nav-link:hover {
+  color: #7c0c00;
+}
+.navbar {
+  opacity: 0.9;
+  text-transform: uppercase; }
+.btn {
+  padding: 10px 0;
+}
+.btn-primary {
+  background-color: #c94b3c;
+  border-color: #c94b3c;
+}
+.btn-primary:hover {
+  background-color: #7c0c00;
+  border-color: #7c0c00;
+}
+.btn-secondary {
+  background-color: #26205c;
+  border-color: #26205c;
+}
+.btn-secondary:hover {
+  background-color: #191442;
+  border-color: #191442;
+}
+footer#main-footer {
+  background-color: #26205c;
+}
