@@ -17,6 +17,9 @@
               {% include 'partials/_alerts.html' %}
 
               <!-- Login Forms -->
+
+              <!-- Super admin Credentials -->
+              <!-- user: sumar, pass: superadmin -->
               <form action="{% url 'login' %}" method="POST">
                 {% csrf_token %}
                 <div class="form-group">
